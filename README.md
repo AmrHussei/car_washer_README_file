@@ -5,7 +5,7 @@ the order remains completed.
 
 ## You can download from Google Play 
 <a href="https://play.google.com/store/apps/details?id=com.carwasher.washing_app">
-         <img alt="Qries" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dTRNzOyrfFHB6324y673crvZRogSv9lOdA&usqp=CAU)"
+         <img alt="Qries" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dTRNzOyrfFHB6324y673crvZRogSv9lOdA&usqp=CAU"
          >
 
 ## Used Tools
