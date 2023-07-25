@@ -18,7 +18,7 @@ the order remains completed.
 
 
 ## Features & Screens
-I built the project and the dashboard with flutter, and these are some of the advantages of both applications
+I built the Users app and the dashboard with flutter, and these are some of the features of both applications
 
 ### users application 
 - Create an account
