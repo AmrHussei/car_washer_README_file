@@ -1,6 +1,6 @@
 # Washghly app
 The Washghly application is an idea for the user to book an appointment to wash his car, 
-and then the specialized team goes to his home address, and after the task is successfully completed, 
+and then the specialized team goes to his home address, and after the task is successfully completed, +32 Screens
 the order remains completed.
 
 ## You can download from Google Play 
@@ -19,6 +19,7 @@ the order remains completed.
 
 ## Features & Screens
 I built the Users app and the dashboard with flutter, and these are some of the features of both applications
+this project has build using MVVM Architecture
 
 ### users application 
 - Create an account
